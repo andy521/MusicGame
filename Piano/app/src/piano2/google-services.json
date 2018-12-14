@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "406616750433",
+    "firebase_url": "https://music-piano-63fba.firebaseio.com",
+    "project_id": "music-piano-63fba",
+    "storage_bucket": "music-piano-63fba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406616750433:android:42305368c7b4cf43",
+        "android_client_info": {
+          "package_name": "com.fotoable.piano"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406616750433-f37g7i9r4ebhgda9tq695j86k6nn0bcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEmOSnNmDOiyXTy6839k9FFrZ-sXsd-9s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

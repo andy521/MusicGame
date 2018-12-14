@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#743A17</color>
+
+    <color name="dialog_bg_color">#BB171717</color>
+
+    <color name="drawer_text_select_color">#EFBE42</color>
+    <color name="drawer_text_unselect_color">#DF9961</color>
+
+    <color name="tab_unselect_color">#D7A884</color>
+    <color name="main_text_color">#743A17</color>
+    <color name="vip_text_color">#4C1B1B</color>
+    <color name="song_name_color">#743A17</color>
+    <color name="song_singer_color">#7A4A23</color>
+    <color name="song_play_tv_color">#EFE7D3</color>
+
+    <color name="progress_text_color">#3D1606</color>
+    <color name="coin_text_color">#FFDD6C</color>
+
+    <color name="title_text_color">#DAB696</color>
+    <color name="choose_text_color">#937457</color>
+    <color name="button_text_color">#653315</color>
+
+    <color name="level_dong_num_color">#773C17</color>
+    <color name="level_undong_num_color">#585858</color>
+    <color name="level_text_color">#532910</color>
+    <color name="level_reward_text_color">#DAB696</color>
+    <color name="level_coins_text_color">#EFC65B</color>
+
+    <color name="diff_finger_tv_color">#FFD3A0</color>
+    <color name="diff_singer_tv_color">#D6AC85</color>
+
+    <color name="circle_progress_bg_color">#291000</color>
+    <color name="circle_progress_color">#D8A918</color>
+    <color name="circle_progress_color2">#D8A918</color>
+    <color name="progress_bg_color">#291000</color>
+
+    <color name="game_progress_color">#FFC500</color>
+    <color name="game_progress_bg_color">#5A1F1F</color>
+    <color name="game_over_title_color">#571D1D</color>
+    <color name="game_over_singer_color">#541A1A</color>
+    <color name="game_over_score_color">#581E1E</color>
+    <color name="game_over_other_color">#561C1C</color>
+    <color name="text_grade_color">#EA720D</color>
+    <color name="new_best_text_color">#FF6767</color>
+
+
+    <color name="balance_tv_color">#937457</color>
+    <color name="balance_money_tv_color">#FFDFB9</color>
+    <color name="balance_money_info_color">#937457</color>
+
+    <color name="levelup_num_text_color">#773C17</color>
+    <color name="levelup_add_coins_text_color">#87481E</color>
+    <color name="get_songs_info_text_color">#87481E</color>
+    <color name="loding_color">#FFFFFF</color>
+
+    <color name="circle_progress_change_color0">#FFC500</color>
+    <color name="circle_progress_change_color1">#F67105</color>
+    <color name="circle_progress_change_color2">#C26415</color>
+
+</resources>

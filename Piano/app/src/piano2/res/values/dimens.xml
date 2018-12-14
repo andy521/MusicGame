@@ -1,0 +1,13 @@
+<resources>
+
+    <dimen name="diff_star_layout_marginTop">19dp</dimen>
+    <dimen name="balance_money_layout_marginTop">70dp</dimen>
+    <dimen name="gameover_circle_progress_size">110dp</dimen>
+    <dimen name="gameover_line_stroke_width">6dp</dimen>
+    <dimen name="bg_circle_margin">4dp</dimen>
+
+    <dimen name="levelup_num_text_size">26dp</dimen>
+    <dimen name="levelup_num_text_marginTop">40dp</dimen>
+    <dimen name="levelup_num_text_paddingLeft">0dp</dimen>
+
+</resources>

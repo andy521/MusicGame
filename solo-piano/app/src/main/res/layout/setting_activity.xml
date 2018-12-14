@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_light">
+
+    <!--顶部栏布局-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@color/background_deep"
+        android:id="@+id/about_title">
+        <ImageButton
+            android:id="@+id/about_icon_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:background="@drawable/about_return_normal"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="10dp"
+            android:layout_centerVertical="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/setting_back_title"
+            android:textSize="16dp"
+            android:textColor="#FFFFFF"
+            android:layout_toRightOf="@id/about_icon_back"
+            android:layout_marginLeft="5dp"
+            android:layout_centerVertical="true" />
+    </RelativeLayout>
+
+    <!--键盘按键显示字的转变布局-->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/ll_dynamic"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/piano_setting_background"
+                android:orientation="vertical">
+
+                <RadioGroup
+                    android:id="@+id/rg_piano_setting_ABC_button"
+                    android:layout_width="match_parent"
+                    android:layout_height="120dp">
+                    <RadioButton
+                        android:id="@+id/piano_setting_ABC_radio_button"
+                        android:layout_width="match_parent"
+                        android:layout_height="60dp"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:layout_centerVertical="true"
+                        android:text="@string/setting_A_B_C"
+                        android:textSize="18sp"
+                        android:button="@null"
+                        android:drawableRight="@drawable/piano_setting_choose" >
+
+                    </RadioButton>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="0.5dp"
+                        android:background="@color/background_light" />
+
+                    <RadioButton
+                        android:id="@+id/piano_setting_Do_Re_Mi_radio_button"
+                        android:layout_width="match_parent"
+                        android:layout_height="60dp"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:text="@string/setting_Do_Re_Mi"
+                        android:textSize="18sp"
+                        android:button="@null"
+                        android:drawableRight="@drawable/piano_setting_choose_none" >
+
+                    </RadioButton>
+
+                </RadioGroup>
+
+            </LinearLayout>
+
+            <!--键盘控制区隐藏布局-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/piano_setting_background"
+            android:orientation="vertical"
+            android:visibility="gone">
+            <RadioGroup
+                android:id="@+id/rg_piano_setting_hide_control_button"
+                android:layout_width="match_parent"
+                android:layout_height="120dp">
+                <RadioButton
+                    android:id="@+id/piano_setting_hide_control_radio_button"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:paddingLeft="10dp"
+                    android:layout_centerVertical="true"
+                    android:text="@string/setting_hide_control_bar"
+                    android:textSize="18sp"
+                    android:button="@null"
+                    android:drawableRight="@android:drawable/btn_radio" >
+
+                </RadioButton>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:background="@color/background_light" />
+
+                <RadioButton
+                    android:id="@+id/piano_setting_show_control_radio_button"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:paddingLeft="10dp"
+                    android:text="@string/setting_display_control_bar"
+                    android:textSize="18sp"
+                    android:button="@null"
+                    android:drawableRight="@android:drawable/btn_radio" >
+
+                </RadioButton>
+
+            </RadioGroup>
+        </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/ll_setting_double_keyboard_connection"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/piano_setting_background"
+                android:orientation="vertical"
+                android:visibility="visible">
+                <RadioGroup
+                    android:id="@+id/rg_piano_setting_double_keyboard_staus"
+                    android:layout_width="match_parent"
+                    android:layout_height="120dp">
+                    <RadioButton
+                        android:id="@+id/piano_setting_no_connection_radio_button"
+                        android:layout_width="match_parent"
+                        android:layout_height="60dp"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:layout_centerVertical="true"
+                        android:text="@string/setting_double_keyboard_no_connection"
+                        android:textSize="18sp"
+                        android:button="@null"
+                        android:drawableRight="@drawable/piano_setting_choose_none" >
+
+                    </RadioButton>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="0.5dp"
+                        android:background="@color/background_light" />
+
+                    <RadioButton
+                        android:id="@+id/piano_setting_yes_connection_radio_button"
+                        android:layout_width="match_parent"
+                        android:layout_height="60dp"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:text="@string/setting_double_keyboard_yes_connection"
+                        android:textSize="18sp"
+                        android:button="@null"
+                        android:drawableRight="@drawable/piano_setting_choose" >
+
+                    </RadioButton>
+
+                </RadioGroup>
+            </LinearLayout>
+
+
+            <!--键盘按钮数量改变布局-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/piano_setting_background"
+                android:orientation="vertical">
+                <RelativeLayout
+                    android:id="@+id/rl_piano_setting_keyboard_num_control_button"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp">
+                    <TextView
+                        android:id="@+id/tv_number_of_keys"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingLeft="10dp"
+                        android:layout_centerVertical="true"
+                        android:text="@string/setting_keyboard_num_control"
+                        android:textSize="18sp"/>
+
+                    <LinearLayout
+                        android:layout_width="160dp"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal"
+                        android:layout_centerInParent="true"
+                        android:layout_alignParentRight="true"
+                        android:gravity="center"
+                        android:layout_marginRight="10dp">
+                        <ImageView
+                            android:id="@+id/tv_number_of_keys_sub"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:src="@drawable/piano_settings_keyboard_num_sub"
+                            android:layout_centerVertical="true"
+                            android:gravity="center"/>
+                        <TextView
+                            android:id="@+id/tv_number_of_keys_value"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="2"
+                            android:text="10"
+                            android:textSize="20sp"
+                            android:layout_centerVertical="true"
+                            android:gravity="center"/>
+                        <ImageView
+                            android:id="@+id/tv_number_of_keys_add"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:src="@drawable/piano_settings_keyboard_num_add"
+                            android:layout_centerVertical="true"
+                            android:gravity="center"/>
+                    </LinearLayout>
+
+
+                    <ImageView
+                        android:id="@+id/iv_piano_setting_keyboard_num_control_arrow_button"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="10dp"
+                        android:contentDescription="@string/app_name"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/piano_icon_arrow_right_normal"
+                        android:visibility="gone"/>
+                </RelativeLayout>
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="0.5dp"
+                    android:background="@color/background_light"
+                    android:visibility="gone"/>
+                <LinearLayout
+                    android:id="@+id/ll_piano_setting_keyboard_num"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:visibility="gone">
+
+                    <RadioGroup
+                        android:id="@+id/piano_setting_key_num_radio_group"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <RadioButton
+                            android:id="@+id/piano_setting_key_num_radio_button10"
+                            android:layout_width="match_parent"
+                            android:layout_height="40dp"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="10dp"
+                            android:layout_centerVertical="true"
+                            android:text="@string/setting_keyboard_num_10"
+                            android:textSize="14sp"
+                            android:button="@null"
+                            android:drawableRight="@drawable/piano_setting_choose" >
+                        </RadioButton>
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="0.5dp"
+                            android:background="@color/background_light" />
+                        <RadioButton
+                            android:id="@+id/piano_setting_key_num_radio_button08"
+                            android:layout_width="match_parent"
+                            android:layout_height="40dp"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="10dp"
+                            android:layout_centerVertical="true"
+                            android:text="@string/setting_keyboard_num_08"
+                            android:textSize="14sp"
+                            android:button="@null"
+                            android:drawableRight="@drawable/piano_setting_choose_none"
+                            >
+                        </RadioButton>
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="0.5dp"
+                            android:background="@color/background_light" />
+                        <RadioButton
+                            android:id="@+id/piano_setting_key_num_radio_button06"
+                            android:layout_width="match_parent"
+                            android:layout_height="40dp"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="10dp"
+                            android:layout_centerVertical="true"
+                            android:text="@string/setting_keyboard_num_06"
+                            android:textSize="14sp"
+                            android:button="@null"
+                            android:drawableRight="@drawable/piano_setting_choose_none" >
+                        </RadioButton>
+
+                    </RadioGroup>
+
+
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

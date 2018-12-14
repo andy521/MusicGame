@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--侧滑栏-->
+    <string-array name="planets_array">
+        <item>@string/action_songbook</item>
+        <item>@string/action_clear</item>
+        <item>@string/action_feedback</item>
+        <item>@string/action_service</item>
+        <item>@string/action_setting</item>
+        <item>@string/action_help</item>
+
+    </string-array>
+</resources>

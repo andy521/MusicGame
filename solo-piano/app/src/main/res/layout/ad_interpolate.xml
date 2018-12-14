@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ad_interpolate_layout"
+    android:layout_width="wrap_content"
+    android:layout_height="45dp"
+    android:layout_marginRight="8dp"
+    android:background="@color/background_ad"
+    android:paddingLeft="8dp"
+    android:gravity="center_horizontal"
+    android:orientation="horizontal"
+    android:paddingBottom="5dp"
+    android:paddingTop="5dp">
+
+    <ImageView
+        android:id="@+id/ad_pop_img"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/mp3_converter_in_piano" />
+    <TextView
+        android:id="@+id/ad_pop_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:maxLines="2"
+        android:paddingRight="8dp"
+        android:layout_gravity="center_vertical"
+        android:ellipsize="end"
+        android:textSize="17sp"
+        android:text="MP3 Converter" />
+
+
+</LinearLayout>

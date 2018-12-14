@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:zhv="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/activity_main_bg">
+
+   <include layout="@layout/public_title"/>
+
+   <TextView
+       android:id="@+id/text1"
+       android:layout_marginTop="@dimen/activity_vertical_margin"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:gravity="center"
+       android:text="@string/action_balance"
+       android:textColor="@color/choose_text_color"
+       android:textSize="@dimen/text_size_18"/>
+
+   <TextView
+       android:id="@+id/text2"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_marginTop="10dp"
+       android:gravity="center"
+       android:text="@string/action_balance_info"
+       android:textColor="@color/balance_tv_color"
+       android:textSize="@dimen/text_size_14"/>
+
+   <com.fotoable.piano.view.zoom_hover.ZoomHoverGridView
+       android:id="@+id/zoom_hover_grid_view"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center_horizontal"
+       zhv:zhv_column_num="3"
+       zhv:zhv_divider="0dp"
+       zhv:zhv_margin_parent="20dp"
+       zhv:zhv_zoom_duration="200"
+       zhv:zhv_zoom_to="1.1"
+       zhv:zhv_use_baseWH="true"
+       zhv:zhv_base_width="170dp"
+       zhv:zhv_base_height="140dp">
+   </com.fotoable.piano.view.zoom_hover.ZoomHoverGridView>
+
+   <RelativeLayout
+       android:id="@+id/rl_exchange"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center_horizontal">
+      <ImageView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_centerInParent="true"
+          android:src="@drawable/bag_button_bg"/>
+      <TextView
+          android:id="@+id/tv_exchange"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:paddingBottom="6dp"
+          android:layout_centerInParent="true"
+          android:text="@string/action_unlock"
+          android:textSize="@dimen/text_size_21"
+          android:textColor="@color/button_text_color" />
+   </RelativeLayout>
+
+
+
+</LinearLayout>

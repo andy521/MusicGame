@@ -1,0 +1,4700 @@
+{
+    "category": {
+        "0": {
+            "name": "Suggested",
+            "songList": [
+                {
+                    "id": 41,
+                    "name": "Invention",
+                    "singerName": "Johann Sebastian Bach",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/41_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/41_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/41_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 42,
+                    "name": "Minuet In G",
+                    "singerName": "Johann Sebastian Bach",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/42_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/42_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/42_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 44,
+                    "name": "Fugue No.16 In G Minor",
+                    "singerName": "Johann Sebastian Bach",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/44_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/44_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/44_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 45,
+                    "name": "Prelude in G Minor BWV930",
+                    "singerName": "Johann Sebastian Bach",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/45_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/45_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/45_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 46,
+                    "name": "Csikos Post",
+                    "singerName": "Hermann Necke",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/46_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/46_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/46_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 47,
+                    "name": "Gavotte",
+                    "singerName": "Francois Joseph Gossec",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/47_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/47_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/47_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 48,
+                    "name": "Por Una Cabeza",
+                    "singerName": "Carlos Gardel",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/48_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/48_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/48_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 49,
+                    "name": "Dance Of The Sugar Fairy",
+                    "singerName": "Tchaikovsky",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/49_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/49_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/49_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 52,
+                    "name": "Cancan",
+                    "singerName": "Jacques Offenbach",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/52_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/52_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/52_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 53,
+                    "name": "Etude Op.299 No.39",
+                    "singerName": "Carl Czerny",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/53_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/53_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/53_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 56,
+                    "name": "Spanish Dances",
+                    "singerName": "Shostakovich",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/56_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/56_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/56_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 57,
+                    "name": "Hungarian Dance No.5",
+                    "singerName": "Johannes Brahms",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/57_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/57_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/57_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 58,
+                    "name": "American Patrol",
+                    "singerName": "Frank Meacham",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/58_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/58_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/58_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 62,
+                    "name": "Sonatina Op.36-3",
+                    "singerName": "Clementi",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/62_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/62_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/62_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 65,
+                    "name": "Humoresque No.7",
+                    "singerName": "Antonin Dvorak",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/65_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/65_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/65_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 66,
+                    "name": "Harmonious Blacksmith",
+                    "singerName": "Handel",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/66_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/66_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/66_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 67,
+                    "name": "Liebestraum No.3",
+                    "singerName": "Franz liszt",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/67_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/67_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/67_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 69,
+                    "name": "Solfeggietto",
+                    "singerName": "C.P.E.Bach",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/69_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/69_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/69_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 70,
+                    "name": "Clarinet Polka",
+                    "singerName": "Prohaska",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/70_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/70_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/70_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                }
+            ]
+        },
+        "2": {
+            "name": "Editor's Choice",
+            "songList": [
+                {
+                    "id": 72,
+                    "name": "Poupee Valsante",
+                    "singerName": "Ede Poldini",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/72_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/72_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/72_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 73,
+                    "name": "Spring Song",
+                    "singerName": "Mendelssohn",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/73_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/73_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/73_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 74,
+                    "name": "Heather Rose",
+                    "singerName": "G.Lange",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/74_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/74_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/74_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 75,
+                    "name": "Troika E Major",
+                    "singerName": "Tchaikovsky",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/75_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/75_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/75_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 76,
+                    "name": "Hunting Song",
+                    "singerName": "Mendelssohn",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/76_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/76_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/76_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 77,
+                    "name": "Romance",
+                    "singerName": "D.Auber",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/77_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/77_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/77_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 78,
+                    "name": "March From Norma",
+                    "singerName": "Vincenzo Bellini",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/78_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/78_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/78_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 79,
+                    "name": "Restless Galop",
+                    "singerName": "L Streabbog",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/79_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/79_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/79_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 80,
+                    "name": "Barcarolle d’Hoffmann",
+                    "singerName": "Jacques Offenbach",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/80_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/80_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/80_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 81,
+                    "name": "The Music Box",
+                    "singerName": "Ede Poldini",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/81_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/81_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/81_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 82,
+                    "name": "Knecht Ruprecht",
+                    "singerName": "Robert Schubert",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/82_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/82_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/82_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 83,
+                    "name": " The Happy Farmer",
+                    "singerName": "Robert Schumann",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/83_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/83_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/83_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 84,
+                    "name": "The Wild Horseman",
+                    "singerName": "Robert Schumann",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/84_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/84_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/84_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 85,
+                    "name": "Soldaten Marsch",
+                    "singerName": "Robert Schumann",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/85_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/85_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/85_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 86,
+                    "name": "Remembrance Op.68 No.28",
+                    "singerName": "Robert Schumann",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/86_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/86_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/86_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 88,
+                    "name": "Market",
+                    "singerName": "Gullit",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/88_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/88_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/88_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 90,
+                    "name": "Les Sylphes",
+                    "singerName": "Georges Bachmann",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/90_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/90_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/90_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 91,
+                    "name": "Wiener March",
+                    "singerName": "Carl Czerny",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/91_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/91_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/91_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 92,
+                    "name": "Emperor Waltz Op.437",
+                    "singerName": "Johann Strauss",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/92_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/92_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/92_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 93,
+                    "name": "Le Coucou",
+                    "singerName": "Louis-Claude Daquin",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/93_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/93_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/93_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 94,
+                    "name": " The Laughing Song",
+                    "singerName": "Johann Strauss",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/94_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/94_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/94_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 95,
+                    "name": "  La Candeur Op.100 No.1",
+                    "singerName": "Friedrich Burgnlueller",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/95_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/95_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/95_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 96,
+                    "name": "Album–leaf Op.12 No.7",
+                    "singerName": "Edvard Grieg",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/96_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/96_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/96_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 98,
+                    "name": "Hasche-Mann Op.15 No.3",
+                    "singerName": "Robert Schumann",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/98_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/98_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/98_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 100,
+                    "name": "Sonata In A Major In B Minor",
+                    "singerName": "Franz Peter Schubert",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/100_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/100_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/100_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 99,
+                    "name": "Traum Der Sennerin Op.45",
+                    "singerName": "August Labitzky",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/99_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/99_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/99_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                }
+            ]
+        },
+        "3": {
+            "name": "Free Songs",
+            "songList": [
+                {
+                    "id": 1,
+                    "name": "Little Star",
+                    "singerName": "British Folk Music",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/1_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/1_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/1_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "Two Tigers",
+                    "singerName": "French Folk Music",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/2_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/2_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/2_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "Jasmine",
+                    "singerName": "Chinese Folk Music",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/4_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/4_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/4_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 5,
+                    "name": "Dolls And Bear Dancing",
+                    "singerName": "Polish Folk Music ",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/5_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/5_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/5_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 7,
+                    "name": "The Painter",
+                    "singerName": "Polish Folk Music",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/7_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/7_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/7_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 8,
+                    "name": "Santa Lucia",
+                    "singerName": "Italian Folk Music",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/8_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/8_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/8_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 9,
+                    "name": "Horse Racing",
+                    "singerName": "Chinese Folk Music",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/9_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/9_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/9_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 11,
+                    "name": "Home, Sweet Home",
+                    "singerName": "Scottish Folk Music",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/11_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/11_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/11_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 12,
+                    "name": "Old Folks At Home",
+                    "singerName": "American Folk Music ",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/12_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/12_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/12_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 13,
+                    "name": "Auld Lang Syne",
+                    "singerName": "Scottish Folk Music",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/13_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/13_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/13_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 14,
+                    "name": "The Blue Bells Of Scotland",
+                    "singerName": "Scottish Folk Music",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/14_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/14_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/14_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 15,
+                    "name": "Jingle Bells",
+                    "singerName": "James Lord Pierpont",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/15_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/15_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/15_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 16,
+                    "name": "Sonata In C Major K545",
+                    "singerName": "Wolfgang Amadeus Mozart",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/16_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/16_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/16_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 17,
+                    "name": "Sonata In A Major  K331",
+                    "singerName": "Wolfgang Amadeus Mozart",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/17_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/17_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/17_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 18,
+                    "name": "Der Vogelfaenger Bin Ich Ja",
+                    "singerName": "Wolfgang Amadeus Mozart",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/18_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/18_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/18_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 19,
+                    "name": "Bagpipe Dance",
+                    "singerName": "Wolfgang Amadeus Mozart",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/19_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/19_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/19_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 20,
+                    "name": "Sonata In C Major K330 Mvt.1",
+                    "singerName": "Wolfgang Amadeus Mozart",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/20_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/20_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/20_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 10,
+                    "name": "Romance",
+                    "singerName": "Spanish Folk Music",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/10_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/10_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/10_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                }
+            ]
+        },
+        "4": {
+            "name": "Most Popular",
+            "songList": [
+                {
+                    "id": 23,
+                    "name": "Ode An Die Freude",
+                    "singerName": "Ludwig van Beethoven",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/23_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/23_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/23_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 24,
+                    "name": "Alla Turca",
+                    "singerName": "Ludwig van Beethoven",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/24_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/24_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/24_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 28,
+                    "name": "Rondo A Capriccio Op.129",
+                    "singerName": "Ludwig van Beethoven",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/28_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/28_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/28_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 29,
+                    "name": "Gertrude’s Dream Waltz",
+                    "singerName": "Ludwig van Beethoven",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/29_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/29_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/29_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 30,
+                    "name": "Lieder Op.52 No.7",
+                    "singerName": "Ludwig van Beethoven",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/30_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/30_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/30_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 32,
+                    "name": "Rondo In C Major Woo 48",
+                    "singerName": "Ludwig van Beethoven",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/32_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/32_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/32_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 34,
+                    "name": "Waltz Op.64 No.1",
+                    "singerName": "Fryderyk Franciszek Chopin",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/34_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/34_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/34_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 35,
+                    "name": "Fantaisie-Impromptu",
+                    "singerName": "Fryderyk Franciszek Chopin",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/35_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/35_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/35_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 37,
+                    "name": "Nocturne In C Minor",
+                    "singerName": "Fryderyk Franciszek Chopin",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/37_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/37_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/37_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                }
+            ]
+        },
+        "5": {
+            "name": "New Songs",
+            "songList": [
+                {
+                    "id": 22,
+                    "name": "Für Elise",
+                    "singerName": "Ludwig van Beethoven",
+                    "isNew": true,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/22_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/22_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/22_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 21,
+                    "name": "Canon",
+                    "singerName": "Johann Pachelbel",
+                    "isNew": true,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/21_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/21_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/21_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 101,
+                    "name": "Carmen Overture",
+                    "singerName": "Bizet",
+                    "isNew": true,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/101_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/101_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/101_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 102,
+                    "name": "Moonlight Sonata Mvt.1",
+                    "singerName": "Ludwig van Beethoven",
+                    "isNew": true,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/102_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/102_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/102_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 103,
+                    "name": "Sonata Pathetique Mvt.3",
+                    "singerName": "Ludwig van Beethoven",
+                    "isNew": true,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/103_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/103_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/103_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 105,
+                    "name": "Bridal Chorus",
+                    "singerName": "Wagner",
+                    "isNew": true,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/105_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/105_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/105_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 106,
+                    "name": "Marche Militaire",
+                    "singerName": "Franz Peter Schubert",
+                    "isNew": true,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/106_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/106_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/106_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 109,
+                    "name": "Red River Valley ",
+                    "singerName": "Canadian Folk Music",
+                    "isNew": true,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/109_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/109_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/109_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 110,
+                    "name": "Kalinka",
+                    "singerName": "Russian Folk Music",
+                    "isNew": true,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/110_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/110_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/110_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 112,
+                    "name": "Radetzky March",
+                    "singerName": "Johann Strauss",
+                    "isNew": true,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/112_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/112_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/112_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 113,
+                    "name": "Greensleeves",
+                    "singerName": "British Folk Music",
+                    "isNew": true,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/113_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/113_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/113_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 114,
+                    "name": "The Swan",
+                    "singerName": "Saint-Saëns",
+                    "isNew": true,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/114_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/114_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/114_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 115,
+                    "name": "Fleecing Of The Flock",
+                    "singerName": "Australian Folk Music",
+                    "isNew": true,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/115_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/115_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/115_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 117,
+                    "name": "Modlitwa Dziewicy",
+                    "singerName": "Tekla Badarzewska",
+                    "isNew": true,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/117_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/117_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/117_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 119,
+                    "name": "Humoresque",
+                    "singerName": "Antonin Dvorak",
+                    "isNew": true,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/119_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/119_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/119_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 120,
+                    "name": "Flight Of The Bumble-bee",
+                    "singerName": "Josef Strauss",
+                    "isNew": true,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/120_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/120_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/120_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 121,
+                    "name": "The Fountain",
+                    "singerName": "Carl Bohm",
+                    "isNew": true,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/121_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/121_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/121_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 122,
+                    "name": " Divertimento In D Major K334 Mvt.3",
+                    "singerName": "Wolfgang Amadeus Mozart",
+                    "isNew": true,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/122_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/122_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/122_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 123,
+                    "name": "Wedding March",
+                    "singerName": "Martini",
+                    "isNew": true,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/123_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/123_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/123_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 125,
+                    "name": "Reverie, Op. 15, No. 7",
+                    "singerName": "Robert Schumann",
+                    "isNew": true,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/125_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/125_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/125_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 127,
+                    "name": "Nocturne In E-flat, Op. 9, No. 2",
+                    "singerName": "Fryderyk Franciszek Chopin",
+                    "isNew": true,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/127_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/127_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/127_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 128,
+                    "name": "About Foreign Lands & People, Op. 15, No.",
+                    "singerName": "Robert Schumann",
+                    "isNew": true,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/128_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/128_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/128_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 129,
+                    "name": "Gavotte (French Suite No. 5)",
+                    "singerName": "Johann Sebastian Bach",
+                    "isNew": true,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/129_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/129_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/129_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 130,
+                    "name": "Papillions",
+                    "singerName": "Robert Schumann",
+                    "isNew": true,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/130_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/130_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/130_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 126,
+                    "name": "Siciliano",
+                    "singerName": "Robert Schumann",
+                    "isNew": true,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/126_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/126_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/126_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 116,
+                    "name": "Serenade",
+                    "singerName": "Franz Peter Schubert",
+                    "isNew": true,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/116_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/116_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/116_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 108,
+                    "name": "Sonata No. 15 In D major ",
+                    "singerName": "Ludwig van Beethoven",
+                    "isNew": true,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/108_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/108_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/108_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 104,
+                    "name": "Nen blauen Donau,Walzer,Op.314",
+                    "singerName": "Johann Strauss",
+                    "isNew": true,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/104_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/104_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/104_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                }
+            ]
+        },
+        "11": {
+            "name": "Passion",
+            "songList": [
+                {
+                    "id": 84,
+                    "name": "The Wild Horseman",
+                    "singerName": "Robert Schumann",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/84_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/84_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/84_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 85,
+                    "name": "Soldaten Marsch",
+                    "singerName": "Robert Schumann",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/85_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/85_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/85_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 76,
+                    "name": "Hunting Song",
+                    "singerName": "Mendelssohn",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/76_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/76_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/76_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 77,
+                    "name": "Romance",
+                    "singerName": "D.Auber",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/77_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/77_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/77_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 78,
+                    "name": "March from Norma",
+                    "singerName": "Vincenzo Bellini",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/78_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/78_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/78_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 79,
+                    "name": "Restless Galop",
+                    "singerName": "L Streabbog",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/79_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/79_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/79_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 70,
+                    "name": "Clarinet Polka",
+                    "singerName": "Prohaska",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/70_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/70_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/70_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 52,
+                    "name": "Cancan",
+                    "singerName": "Jacques Offenbach",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/52_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/52_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/52_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 57,
+                    "name": "Hungarian Dance No.5",
+                    "singerName": "Johannes Brahms",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/57_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/57_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/57_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 58,
+                    "name": "American Patrol",
+                    "singerName": "Frank Meacham",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/58_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/58_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/58_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 46,
+                    "name": "Csikos Post",
+                    "singerName": "Hermann Necke",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/46_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/46_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/46_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 34,
+                    "name": "Waltz Op.64 No.1",
+                    "singerName": "Fryderyk Franciszek Chopin",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/34_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/34_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/34_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 28,
+                    "name": "Rondo A Capriccio Op.129",
+                    "singerName": "Ludwig van Beethoven",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/28_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/28_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/28_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 24,
+                    "name": "Alla Turca",
+                    "singerName": "Ludwig van Beethoven",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/24_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/24_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/24_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 17,
+                    "name": "Sonata In A major  K331",
+                    "singerName": "Wolfgang Amadeus Mozart",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/17_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/17_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/17_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 7,
+                    "name": "The Painter",
+                    "singerName": "Polish Folk Music",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/7_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/7_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/7_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 91,
+                    "name": "Wiener March",
+                    "singerName": "Carl Czerny",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/91_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/91_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/91_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                }
+            ]
+        },
+        "12": {
+            "name": "Cheerful",
+            "songList": [
+                {
+                    "id": 92,
+                    "name": "Emperor Waltz Op.437",
+                    "singerName": "Johann Strauss",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/92_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/92_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/92_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 98,
+                    "name": "Hasche-Mann Op.15 No.3",
+                    "singerName": "Robert Schumann",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/98_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/98_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/98_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 100,
+                    "name": "Sonata In A Major In B Minor",
+                    "singerName": "Franz Peter Schubert",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/100_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/100_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/100_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 82,
+                    "name": "Knecht Ruprecht",
+                    "singerName": "Robert Schubert",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/82_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/82_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/82_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 73,
+                    "name": "Spring Song",
+                    "singerName": "Mendelssohn",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/73_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/73_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/73_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 62,
+                    "name": "Sonatina Op.36-3",
+                    "singerName": "Clementi",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/62_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/62_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/62_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 66,
+                    "name": "Harmonious Blacksmith",
+                    "singerName": "Handel",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/66_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/66_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/66_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 67,
+                    "name": "Liebestraum No.3",
+                    "singerName": "Franz liszt",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/67_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/67_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/67_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 53,
+                    "name": "Etude Op.299 No.39",
+                    "singerName": "Carl Czerny",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/53_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/53_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/53_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 56,
+                    "name": "Spanish Dances",
+                    "singerName": "Shostakovich",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/56_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/56_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/56_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 29,
+                    "name": "Gertrude’s Dream Waltz",
+                    "singerName": "Ludwig van Beethoven",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/29_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/29_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/29_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 23,
+                    "name": "Ode An Die Freude",
+                    "singerName": "Ludwig van Beethoven",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/23_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/23_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/23_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 16,
+                    "name": "Sonata In C Major K545",
+                    "singerName": "Wolfgang Amadeus Mozart",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/16_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/16_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/16_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 18,
+                    "name": "Der Vogelfaenger Bin Ich Ja",
+                    "singerName": "Wolfgang Amadeus Mozart",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/18_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/18_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/18_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 19,
+                    "name": "Bagpipe Dance",
+                    "singerName": "Wolfgang Amadeus Mozart",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/19_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/19_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/19_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 20,
+                    "name": "Sonata In C Major K330 Mvt.1",
+                    "singerName": "Wolfgang Amadeus Mozart",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/20_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/20_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/20_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 15,
+                    "name": "Jingle Bells",
+                    "singerName": "James Lord Pierpont",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/15_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/15_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/15_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 13,
+                    "name": "Auld Lang Syne",
+                    "singerName": "Scottish Folk Music",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/13_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/13_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/13_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 10,
+                    "name": "Romance",
+                    "singerName": "Spanish Folk Music",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/10_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/10_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/10_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 11,
+                    "name": "Home, Sweet Home",
+                    "singerName": "Scottish Folk Music",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/11_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/11_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/11_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 9,
+                    "name": "Horse Racing",
+                    "singerName": "Chinese Folk Music",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/9_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/9_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/9_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": "Two Tigers",
+                    "singerName": "French Folk Music",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/2_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/2_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/2_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 83,
+                    "name": " The Happy Farmer",
+                    "singerName": "Robert Schumann",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/83_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/83_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/83_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                }
+            ]
+        },
+        "13": {
+            "name": "Wonderful",
+            "songList": [
+                {
+                    "id": 93,
+                    "name": "Le Coucou",
+                    "singerName": "Louis-Claude Daquin",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/93_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/93_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/93_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 94,
+                    "name": " The Laughing Song",
+                    "singerName": "Johann Strauss",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/94_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/94_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/94_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 95,
+                    "name": "La Candeur Op.100 No.1",
+                    "singerName": "Friedrich Burgnlueller",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/95_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/95_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/95_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 81,
+                    "name": "The Music Box",
+                    "singerName": "Ede Poldini",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/81_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/81_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/81_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 72,
+                    "name": "Poupee Valsante",
+                    "singerName": "Ede Poldini",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/72_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/72_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/72_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 74,
+                    "name": "Heather Rose",
+                    "singerName": "G.Lange",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/74_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/74_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/74_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 75,
+                    "name": "Troika E Major",
+                    "singerName": "Tchaikovsky",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/75_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/75_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/75_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 65,
+                    "name": "Humoresque No.7",
+                    "singerName": "Antonin Dvorak",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/65_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/65_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/65_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 41,
+                    "name": "Invention",
+                    "singerName": "Johann Sebastian Bach",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/41_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/41_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/41_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 42,
+                    "name": "Minuet In G",
+                    "singerName": "Johann Sebastian Bach",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/42_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/42_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/42_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 44,
+                    "name": "Fugue No.16 In G Minor",
+                    "singerName": "Johann Sebastian Bach",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/44_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/44_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/44_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 45,
+                    "name": "Prelude In G Minor BWV930",
+                    "singerName": "Johann Sebastian Bach",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/45_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/45_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/45_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 47,
+                    "name": "Gavotte",
+                    "singerName": "Francois Joseph Gossec",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/47_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/47_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/47_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 30,
+                    "name": "Lieder Op.52 No.7",
+                    "singerName": "Ludwig van Beethoven",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/30_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/30_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/30_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 32,
+                    "name": "Rondo In C Major Woo 48",
+                    "singerName": "Ludwig van Beethoven",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/32_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/32_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/32_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 14,
+                    "name": "The Blue Bells Of Scotland",
+                    "singerName": "Scottish Folk Music",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/14_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/14_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/14_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 5,
+                    "name": "Dolls And Bear Dancing",
+                    "singerName": "Polish Folk Music ",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/5_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/5_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/5_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 1,
+                    "name": "Little Star",
+                    "singerName": "British Folk Music",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/1_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/1_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/1_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 90,
+                    "name": "Les Sylphes",
+                    "singerName": "Georges Bachmann",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/90_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/90_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/90_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                }
+            ]
+        },
+        "14": {
+            "name": "Sorrow",
+            "songList": [
+                {
+                    "id": 86,
+                    "name": "Remembrance Op.68 No.28",
+                    "singerName": "Robert Schumann",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/86_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/86_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/86_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 88,
+                    "name": "Market",
+                    "singerName": "Gullit",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/88_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/88_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/88_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 69,
+                    "name": "Solfeggietto",
+                    "singerName": "C.P.E.Bach",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/69_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/69_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/69_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 35,
+                    "name": "Fantaisie-impromptu",
+                    "singerName": "Fryderyk Franciszek Chopin",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/35_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/35_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/35_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 37,
+                    "name": "Nocturne In C Minor",
+                    "singerName": "Fryderyk Franciszek Chopin",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/37_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/37_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/37_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 12,
+                    "name": "Old Folks At Home",
+                    "singerName": "American Folk Music ",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/12_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/12_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/12_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 8,
+                    "name": "Santa Lucia",
+                    "singerName": "Italian Folk Music",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/8_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/8_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/8_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": "Jasmine",
+                    "singerName": "Chinese Folk Music",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 0,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/4_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/4_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/4_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 96,
+                    "name": "Album–leaf Op.12 No.7",
+                    "singerName": "Edvard Grieg",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/96_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/96_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/96_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                }
+            ]
+        },
+        "15": {
+            "name": "Smooth",
+            "songList": [
+                {
+                    "id": 80,
+                    "name": "Barcarolle d’Hoffmann",
+                    "singerName": "Jacques Offenbach",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 25,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/80_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/80_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/80_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 48,
+                    "name": "Por Una Cabeza",
+                    "singerName": "Carlos Gardel",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/48_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/48_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/48_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 49,
+                    "name": "Dance Of The Sugar Fairy",
+                    "singerName": "Tchaikovsky",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/49_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/49_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/49_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                },
+                {
+                    "id": 99,
+                    "name": "Traum Der Sennerin Op.45",
+                    "singerName": "August Labitzky",
+                    "isNew": false,
+                    "isVip": false,
+                    "cost": 50,
+                    "uploadTime": 1498640799218,
+                    "easy": {
+                        "difficulty": 0,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/99_easy.mid",
+                        "reward": 5,
+                        "xp": 100
+                    },
+                    "middle": {
+                        "difficulty": 1,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/99_middle.mid",
+                        "reward": 10,
+                        "xp": 150
+                    },
+                    "hard": {
+                        "difficulty": 2,
+                        "pathServer": "http://dl.fotoable.net/magic_piano/99_hard.mid",
+                        "reward": 15,
+                        "xp": 200
+                    }
+                }
+            ]
+        }
+    },
+    "uploadTime": 1498640799219,
+    "versionCode": 1
+}

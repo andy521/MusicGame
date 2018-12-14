@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff6523AF</color>
+    <color name="colorPrimaryDark">#ff6523AF</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorGray">#c5c5c5</color>
+    <color name="text_green">#02C1AC</color>
+    <color name="text_Gray">#979797</color>
+    <color name="text_medium_Gray">#5F5F5F</color>
+    <color name="text_Black">#000000</color>
+    <color name="text_medium_black">#555555</color>
+    <color name="white">#ffffff</color>
+    <color name="train_color">#00ffffff</color>
+    <color name="modena">#ff6523AF</color>
+    <color name="shallow_modena">#FFAE4BC8</color>
+    <color name="medium_modena">#FF8540D4</color>
+    <color name="text_modena">#FFB269E1</color>
+    <color name="button_bg_modena">#FFD3C0E8</color>
+    <color name="dialog_modena">#BB1D0E51</color>
+    <color name="text_modena2">#FF879DFA</color>
+
+    <color name="circle_progress_bg_color">#FF6523AF</color>
+    <color name="circle_progress_color">#FF69CDFF</color>
+
+    <color name="progress_color">#FF69CDFF</color>
+    <color name="progress_color2">#FF00DBFF</color>
+    <color name="loding_color">#FFB1FDFF</color>
+    <color name="game_progress_color">#FF00F8FF</color>
+    <color name="progress_bg_color">#FF0D3E57</color>
+    <color name="green_color">#FF6BC1FF</color>
+    <color name="game_pause_bg">#B7000000</color>
+    <color name="white_50">#7FFFFFFF</color>
+    <color name="text_green_color">#FF8FE3FF</color>
+    <color name="text_yello_color">#FFFFC542</color>
+    <color name="text_red_color">#FFFF6767</color>
+    <color name="text_pink_color">#FFFFCFFA</color>
+    <color name="text_level_color">#FF5042b4</color>
+    <color name="facebook_btn">#4b66c4</color>
+    <color name="select_all_btn">#8799e5</color>
+    <color name="share_btn">#6fc1fb</color>
+    <color name="chanllenge_btn">#c46cfe</color>
+</resources>

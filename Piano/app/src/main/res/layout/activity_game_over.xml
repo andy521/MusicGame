@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/activity_gameover_bg"
+        android:orientation="vertical">
+        <!--title-->
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/title_height">
+
+            <LinearLayout
+                android:id="@+id/ll_replay"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:src="@drawable/replay_icon"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tv_song_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:ellipsize="end"
+                    android:maxEms="16"
+                    android:singleLine="true"
+                    android:textColor="@color/game_over_title_color"
+                    android:textSize="@dimen/text_size_16"/>
+
+                <TextView
+                    android:id="@+id/tv_singer"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:ellipsize="end"
+                    android:maxEms="10"
+                    android:singleLine="true"
+                    android:textColor="@color/game_over_singer_color"
+                    android:textSize="@dimen/text_size_12"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll_coins"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/activity_horizontal_margin"
+                android:orientation="horizontal"
+                android:padding="5dp"
+                android:visibility="gone">
+
+                <ImageView
+                    android:id="@+id/img_coins"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:src="@drawable/small_coin"/>
+
+                <TextView
+                    android:id="@+id/tv_coins"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="5dp"
+                    android:textColor="@color/game_over_title_color"
+                    android:textSize="@dimen/text_size_16"/>
+
+            </LinearLayout>
+
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="60dp">
+            <!--星星-->
+            <RelativeLayout
+                android:id="@+id/rl_star"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical">
+
+                <com.fotoable.piano.view.CircleProgressView
+                    android:id="@+id/progressbar"
+                    android:layout_width="@dimen/gameover_circle_progress_size"
+                    android:layout_height="@dimen/gameover_circle_progress_size"
+                    android:layout_centerInParent="true"
+                    android:background="@drawable/medium_oval"
+                    app:line_stroke_width="@dimen/gameover_line_stroke_width"
+                    app:progress_color="@color/circle_progress_color2"
+                    app:progress_color_bg="@color/progress_bg_color"/>
+
+                <com.fotoable.piano.view.GameOverStarLayout
+                    android:id="@+id/tl_star"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="12dp"/>
+
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tv_type"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                    android:textColor="@color/text_grade_color"
+                    android:textSize="@dimen/text_size_22"/>
+
+                <TextView
+                    android:id="@+id/tv_type2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                    android:text="New Best！"
+                    android:textColor="@color/new_best_text_color"
+                    android:textSize="@dimen/text_size_10"/>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                    android:orientation="horizontal">
+
+                    <!--得分-->
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <com.fotoable.piano.view.RiseNumberTextView
+                            android:id="@+id/tv_score"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="1140"
+                            android:textColor="@color/game_over_score_color"
+                            android:textSize="@dimen/text_size_24"/>
+
+                        <TextView
+                            android:id="@+id/text_Score"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/action_Your_Score"
+                            android:textColor="@color/game_over_other_color"
+                            android:textSize="@dimen/text_size_12"/>
+
+                    </LinearLayout>
+
+                    <!--进度-->
+                    <LinearLayout
+                        android:id="@+id/ll_jindu"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="20dp">
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:id="@+id/textHit"
+                                android:layout_width="wrap_content"
+                                android:layout_height="0dp"
+                                android:layout_weight="1"
+                                android:gravity="bottom"
+                                android:text="@string/action_Notes_Hit"
+                                android:textColor="@color/game_over_other_color"
+                                android:textSize="@dimen/text_size_10"/>
+
+                            <TextView
+                                android:id="@+id/textTiming"
+                                android:layout_width="wrap_content"
+                                android:layout_height="0dp"
+                                android:layout_weight="1"
+                                android:gravity="bottom"
+                                android:text="@string/action_Timing"
+                                android:textColor="@color/game_over_other_color"
+                                android:textSize="@dimen/text_size_10"/>
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                            android:orientation="vertical">
+
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="0dp"
+                                android:layout_weight="1">
+
+                                <com.fotoable.piano.view.SpringProgressView
+                                    android:id="@+id/not_pro"
+                                    android:layout_width="120dp"
+                                    android:layout_height="8dp"
+                                    android:layout_gravity="bottom"/>
+
+                                <!--<ProgressBar-->
+                                    <!--android:id="@+id/not_pro"-->
+                                    <!--style="?android:attr/progressBarStyleHorizontal"-->
+                                    <!--android:layout_width="120dp"-->
+                                    <!--android:layout_height="8dp"-->
+                                    <!--android:layout_gravity="bottom"-->
+                                    <!--android:max="100"-->
+                                    <!--android:progress="80"-->
+                                    <!--android:progressDrawable="@drawable/shape_progressbar_game"/>-->
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="0dp"
+                                android:layout_weight="1">
+
+                                <com.fotoable.piano.view.SpringProgressView
+                                    android:id="@+id/time_pro"
+                                    android:layout_width="120dp"
+                                    android:layout_height="8dp"
+                                    android:layout_gravity="bottom"/>
+
+                                <!--<ProgressBar-->
+                                    <!--android:id="@+id/time_pro"-->
+                                    <!--style="?android:attr/progressBarStyleHorizontal"-->
+                                    <!--android:layout_width="120dp"-->
+                                    <!--android:layout_height="8dp"-->
+                                    <!--android:layout_gravity="bottom"-->
+                                    <!--android:max="100"-->
+                                    <!--android:progress="80"-->
+                                    <!--android:progressDrawable="@drawable/shape_progressbar_game"/>-->
+                            </LinearLayout>
+                        </LinearLayout>
+
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:orientation="vertical"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp">
+
+            <RelativeLayout
+                android:id="@+id/rl_share"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="8dp"
+                android:layout_weight="1">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/bag_button_bg"/>
+
+                <TextView
+                    android:id="@+id/tv_share"
+                    android:layout_width="300dp"
+                    android:gravity="center"
+                    android:layout_height="40dp"
+                    android:layout_centerInParent="true"
+                    android:text="@string/action_share"
+                    android:textColor="@color/button_text_color"
+                    android:textSize="@dimen/text_size_21"/>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rl_Continue"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="1">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/bag_button_bg"/>
+
+                <TextView
+                    android:id="@+id/tv_Continue"
+                    android:layout_width="300dp"
+                    android:gravity="center"
+                    android:layout_height="40dp"
+                    android:layout_centerInParent="true"
+                    android:text="@string/action_continue"
+                    android:textColor="@color/button_text_color"
+                    android:textSize="@dimen/text_size_21"/>
+
+            </RelativeLayout>
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <!--  金币  -->
+
+    <ImageView
+        android:id="@+id/anim_coins"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="100dp"
+        android:src="@drawable/coin_anim"
+        android:visibility="gone"/>
+
+
+    <com.fotoable.piano.view.LoadingView
+        android:id="@+id/dialog"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"/>
+
+</RelativeLayout>

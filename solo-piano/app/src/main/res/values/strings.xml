@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<resources>
+    <string name="app_name">Piano</string>
+    <string name="facebook_app_id" translatable="false">480740438790913</string>
+    <string name="facebook_app_name" translatable="false">Piano</string>
+    <string name="not_ready_toast">Loading... please wait.</string>
+    <string name="no_saved_file">Empty Directory: %s</string>
+    <string name="setting_back_title">Settings</string>
+    <string name="setting_A_B_C">A B C</string>
+    <string name="setting_Do_Re_Mi">Do Re Mi</string>
+    <string name="setting_hide_control_bar">Hide Control Bar</string>
+    <string name="setting_display_control_bar">Display Control Bar</string>
+    <string name="setting_keyboard_num_control">Number of Keys</string>
+    <string name="setting_keyboard_num_10">10 Keys</string>
+    <string name="setting_keyboard_num_08">8 Keys</string>
+    <string name="setting_keyboard_num_06">6 Keys</string>
+    <string name="setting_double_keyboard_no_connection">Double Keyboards Disconnected</string>
+    <string name="setting_double_keyboard_yes_connection">Double Keyboards Connected</string>
+
+    <string name="set_success_toast">Set Successful</string>
+    <string name="set_fail_toast">Set Failed</string>
+
+</resources>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:zhv="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:id="@+id/root_view"
+    android:layout_height="match_parent">
+
+   <LinearLayout
+       android:orientation="vertical"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent">
+
+      <RelativeLayout
+          android:layout_width="match_parent"
+          android:layout_height="55dp"
+          android:background="@drawable/level_title_bg">
+
+         <LinearLayout
+             android:id="@+id/ll_back"
+             android:layout_width="wrap_content"
+             android:layout_height="match_parent"
+             android:layout_alignParentLeft="true"
+             android:paddingRight="15dp">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                android:src="@drawable/back_icon"/>
+         </LinearLayout>
+
+         <LinearLayout
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_centerInParent="true"
+             android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_song_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:singleLine="true"
+                android:maxEms="16"
+                android:ellipsize="end"
+                android:textColor="@color/title_text_color"
+                android:textSize="@dimen/text_size_18"/>
+
+            <TextView
+                android:id="@+id/tv_singer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:singleLine="true"
+                android:maxEms="10"
+                android:ellipsize="end"
+                android:textColor="@color/diff_singer_tv_color"
+                android:textSize="@dimen/text_size_14"/>
+
+         </LinearLayout>
+
+         <ImageView
+             android:id="@+id/img_preview"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_alignParentRight="true"
+             android:layout_marginRight="@dimen/activity_horizontal_margin"
+             android:layout_centerVertical="true"
+             android:gravity="center"
+             android:src="@drawable/preview"/>
+
+
+      </RelativeLayout>
+
+      <TextView
+          android:id="@+id/text"
+          android:layout_marginTop="@dimen/activity_vertical_margin"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:gravity="center"
+          android:text="@string/action_difficulty_info"
+          android:textColor="@color/choose_text_color"
+          android:textSize="@dimen/text_size_18"/>
+
+      <com.fotoable.piano.view.zoom_hover.ZoomHoverGridView
+          android:id="@+id/zoom_hover_grid_view"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_gravity="center_horizontal"
+          zhv:zhv_column_num="3"
+          zhv:zhv_divider="0dp"
+          zhv:zhv_margin_parent="20dp"
+          zhv:zhv_zoom_duration="100"
+          zhv:zhv_zoom_to="1.1"
+          zhv:zhv_use_baseWH="true"
+          zhv:zhv_base_width="150dp"
+          zhv:zhv_base_height="170dp">
+
+      </com.fotoable.piano.view.zoom_hover.ZoomHoverGridView>
+
+      <RelativeLayout
+          android:id="@+id/rl_start"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_gravity="center_horizontal">
+
+         <ImageView
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_centerInParent="true"
+             android:src="@drawable/bag_button_bg"/>
+
+         <TextView
+             android:id="@+id/tv_start"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_centerInParent="true"
+             android:paddingBottom="6dp"
+             android:text="@string/action_difficulty_star"
+             android:textColor="@color/button_text_color"
+             android:textSize="@dimen/text_size_21"/>
+
+      </RelativeLayout>
+
+
+
+   </LinearLayout>
+
+   <LinearLayout
+       android:id="@+id/rl_challenge_friend"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_alignParentBottom="true"
+       android:layout_alignParentRight="true"
+       android:layout_centerInParent="true"
+       android:layout_gravity="center_horizontal">
+
+      <TextView
+          android:layout_width="70dp"
+          android:layout_height="wrap_content"
+          android:layout_gravity="center_vertical"
+          android:drawableRight="@drawable/ic_arrow_f"
+          android:text="@string/action_share"
+          android:textColor="@color/facebook_btn"
+          android:textSize="12sp"
+          />
+
+      <FrameLayout
+          android:id="@+id/fb_invite"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content">
+
+
+         <ImageView
+             android:id="@+id/fb_invite_bg"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:src="@drawable/ic_oval"/>
+
+         <ImageView
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_marginLeft="5dp"
+             android:layout_marginTop="5dp"
+             android:src="@drawable/ic_f_invite"/>
+      </FrameLayout>
+
+
+   </LinearLayout>
+
+   <com.fotoable.piano.view.LoadingView
+      android:id="@+id/dialog"
+       android:visibility="gone"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"/>
+
+</RelativeLayout>

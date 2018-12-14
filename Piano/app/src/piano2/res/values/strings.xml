@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Music Piano2</string>
+
+    <string name="book_name">Songbook</string>
+
+    <string name="action_free">Free</string>
+
+    <string name="facebook_id">472520209777307</string>
+
+    <string name="facebook_app_provide">com.facebook.app.FacebookContentProvider472520209777307</string>
+    <string name="fb_login_protocol_scheme">fb472520209777307</string>
+
+</resources>

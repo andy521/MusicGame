@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--circle_progress 渐变效果-->
+    <string-array name="colors_array">
+        <item>@color/circle_progress_color</item>
+    </string-array>
+</resources>

@@ -1,0 +1,19 @@
+{
+  "AdViewId": [
+    {
+      "fb_id": "472520209777307_475435766152418",
+      "click_to_reload": "true",
+      "cache_time": "10",
+      "describe": "a_PlayFinish",
+      "ad_load_type": "fb"
+    },
+    {
+      "fb_id": "472520209777307_476832882679373",
+      "cache_time": "86400",
+      "click_to_reload": "true",
+      "describe": "interstitial",
+      "ad_load_type": "interstitial"
+    }
+  ],
+  "updateCacheTime": "14400"
+}

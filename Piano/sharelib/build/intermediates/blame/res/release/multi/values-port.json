@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/fotoable/AndroidStudioProjects/Fotoable-Pro/MusicAndroid/piano-android/Piano/sharelib/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-port/values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/Users/fotoable/.android/build-cache/e5f44f0604d2aa4e5a6cc796d0ffcdd6b089a640/output/res/values-port/values-port.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    }
+]

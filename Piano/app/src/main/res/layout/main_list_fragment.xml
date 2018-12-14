@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorPrimary"
+        android:layout_marginLeft="@dimen/fragment_horizontal_left_margin"/>
+
+    <ListView
+        android:id="@+id/title_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:choiceMode="singleChoice"
+        android:scrollbars="none"
+        android:listSelector="@android:color/transparent"
+        android:fastScrollEnabled="true"
+        android:cacheColorHint="@android:color/transparent"
+        android:divider="@null"/>
+
+</RelativeLayout>

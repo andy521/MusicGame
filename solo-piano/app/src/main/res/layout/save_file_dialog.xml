@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="240dp"
+    android:layout_height="fill_parent"
+    android:background="@drawable/shape"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="42dp"
+            android:gravity="center"
+            android:background="@drawable/shape_deep"
+            >
+
+            <TextView
+                android:id="@+id/tv_file_tips"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:textColor="@color/whites"
+                android:textSize="16sp"
+                android:gravity="center"
+                android:text="Save File"/>
+
+
+        </LinearLayout>
+    <EditText
+        android:id="@+id/etFileName"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@null"
+        android:hint="File name"
+        android:ems="10">
+        <requestFocus />
+    </EditText>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/shape">
+        <Button
+            android:id="@+id/btnCancel"
+            android:layout_width="0.0dip"
+            android:layout_height="32dp"
+            android:layout_marginRight="5dp"
+            android:text="Cancel"
+            android:layout_weight="1.0"
+            android:background="@drawable/shape_border"/>
+        <Button
+            android:id="@+id/btnSave"
+            android:layout_width="0.0dip"
+            android:layout_height="32dp"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/shape_border_deep"
+            android:text="Save"
+            android:layout_weight="1.0" />
+    </LinearLayout>
+</LinearLayout>
+    </LinearLayout>

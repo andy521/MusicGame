@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@+id/LinearLayout1" android:background="#ff000000" android:layout_width="fill_parent" android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip">
+            <ImageView android:id="@+id/imgPlayRecord" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:src="@drawable/play" />
+            <ImageView android:id="@+id/imgStartRecord" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:src="@drawable/record_off" />
+            <ImageView android:id="@+id/imgLoad" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:src="@drawable/load" />
+            <ImageView android:id="@+id/imgList" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:src="@drawable/list" />
+            <TextView android:textSize="30.0dip" android:textColor="#ffffffff" android:id="@+id/tvTitle" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_marginLeft="20.0dip" android:text="Hello Piano" android:layout_weight="1.0" />
+        </LinearLayout>
+        <LinearLayout android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <Button android:id="@+id/btnAcoustic" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Load Acoustic" style="?android:attr/buttonStyleSmall" />
+            <Button android:id="@+id/btnBright" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Load Bright" style="?android:attr/buttonStyleSmall" />
+            <Button android:id="@+id/btnSynth" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Load Synth" style="?android:attr/buttonStyleSmall" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:layout_marginBottom="5.0dip">
+            <ImageView android:id="@+id/imgLeft10" android:layout_width="40.0dip" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:src="@drawable/img_left_far" android:adjustViewBounds="true" />
+            <ImageView android:id="@+id/imgLeft1" android:layout_width="40.0dip" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" android:src="@drawable/img_left" android:adjustViewBounds="true" />
+            <piano.tiles.music.keyboard.song.am.AllKeysScrollBar
+                android:id="@+id/sbKeyboard" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_weight="1.0" />
+            <ImageView android:id="@+id/imgRight1" android:layout_width="40.0dip" android:layout_height="wrap_content" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" android:src="@drawable/img_right" android:adjustViewBounds="true" />
+            <ImageView android:id="@+id/imgRight10" android:layout_width="40.0dip" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:src="@drawable/img_right_far" android:adjustViewBounds="true" />
+        </LinearLayout>
+    </LinearLayout>
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <LinearLayout android:id="@+id/llWhiteKeys" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <piano.tiles.music.keyboard.song.am.SoundKey
+                android:gravity="bottom|center" android:id="@+id/btnWhiteSound1" android:background="@drawable/white_key_normal" android:paddingBottom="10.0dip" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="NaN" android:layout_weight="1.0" style="@android:style/TextAppearance.Large" />
+            <piano.tiles.music.keyboard.song.am.SoundKey
+                android:gravity="bottom|center" android:id="@+id/btnWhiteSound2" android:background="@drawable/white_key_normal" android:paddingBottom="10.0dip" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="NaN" android:layout_weight="1.0" style="@android:style/TextAppearance.Large" />
+            <piano.tiles.music.keyboard.song.am.SoundKey
+                android:gravity="bottom|center" android:id="@+id/btnWhiteSound3" android:background="@drawable/white_key_normal" android:paddingBottom="10.0dip" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="NaN" android:layout_weight="1.0" style="@android:style/TextAppearance.Large" />
+            <piano.tiles.music.keyboard.song.am.SoundKey
+                android:gravity="bottom|center" android:id="@+id/btnWhiteSound4" android:background="@drawable/white_key_normal" android:paddingBottom="10.0dip" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="NaN" android:layout_weight="1.0" style="@android:style/TextAppearance.Large" />
+            <piano.tiles.music.keyboard.song.am.SoundKey
+                android:gravity="bottom|center" android:id="@+id/btnWhiteSound5" android:background="@drawable/white_key_normal" android:paddingBottom="10.0dip" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="NaN" android:layout_weight="1.0" style="@android:style/TextAppearance.Large" />
+            <piano.tiles.music.keyboard.song.am.SoundKey
+                android:gravity="bottom|center" android:id="@+id/btnWhiteSound6" android:background="@drawable/white_key_normal" android:paddingBottom="10.0dip" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="NaN" android:layout_weight="1.0" style="@android:style/TextAppearance.Large" />
+            <piano.tiles.music.keyboard.song.am.SoundKey
+                android:gravity="bottom|center" android:id="@+id/btnWhiteSound7" android:background="@drawable/white_key_normal" android:paddingBottom="10.0dip" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="NaN" android:layout_weight="1.0" style="@android:style/TextAppearance.Large" />
+            <piano.tiles.music.keyboard.song.am.SoundKey
+                android:gravity="bottom|center" android:id="@+id/btnWhiteSound8" android:background="@drawable/white_key_normal" android:paddingBottom="10.0dip" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="NaN" android:layout_weight="1.0" style="@android:style/TextAppearance.Large" />
+            <piano.tiles.music.keyboard.song.am.SoundKey
+                android:gravity="bottom|center" android:id="@+id/btnWhiteSound9" android:background="@drawable/white_key_normal" android:paddingBottom="10.0dip" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="NaN" android:layout_weight="1.0" style="@android:style/TextAppearance.Large" />
+            <piano.tiles.music.keyboard.song.am.SoundKey
+                android:gravity="bottom|center" android:id="@+id/btnWhiteSound10" android:background="@drawable/white_key_normal" android:paddingBottom="10.0dip" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="NaN" android:layout_weight="1.0" style="@android:style/TextAppearance.Large" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:id="@+id/llBlackKeys" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+                <View android:id="@+id/view2" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.5" />
+                <piano.tiles.music.keyboard.song.am.SoundKey
+                    android:textColor="#ffffffff" android:gravity="bottom|center" android:id="@+id/btnBlackSound1" android:background="@drawable/black_key_normal" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+                <View android:id="@+id/view3" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+                <piano.tiles.music.keyboard.song.am.SoundKey
+                    android:textColor="#ffffffff" android:gravity="bottom|center" android:id="@+id/btnBlackSound2" android:background="@drawable/black_key_normal" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+                <View android:id="@+id/view4" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+                <piano.tiles.music.keyboard.song.am.SoundKey
+                    android:textColor="#ffffffff" android:gravity="bottom|center" android:id="@+id/btnBlackSound3" android:background="@drawable/black_key_normal" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+                <View android:id="@+id/view5" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+                <piano.tiles.music.keyboard.song.am.SoundKey
+                    android:textColor="#ffffffff" android:gravity="bottom|center" android:id="@+id/btnBlackSound4" android:background="@drawable/black_key_normal" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+                <View android:id="@+id/view6" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+                <piano.tiles.music.keyboard.song.am.SoundKey
+                    android:textColor="#ffffffff" android:gravity="bottom|center" android:id="@+id/btnBlackSound5" android:background="@drawable/black_key_normal" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+                <View android:id="@+id/view7" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+                <piano.tiles.music.keyboard.song.am.SoundKey
+                    android:textColor="#ffffffff" android:gravity="bottom|center" android:id="@+id/btnBlackSound6" android:background="@drawable/black_key_normal" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+                <View android:id="@+id/view8" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+                <piano.tiles.music.keyboard.song.am.SoundKey
+                    android:textColor="#ffffffff" android:gravity="bottom|center" android:id="@+id/btnBlackSound7" android:background="@drawable/black_key_normal" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+                <View android:id="@+id/view9" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+                <piano.tiles.music.keyboard.song.am.SoundKey
+                    android:textColor="#ffffffff" android:gravity="bottom|center" android:id="@+id/btnBlackSound8" android:background="@drawable/black_key_normal" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+                <View android:id="@+id/view10" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+                <piano.tiles.music.keyboard.song.am.SoundKey
+                    android:textColor="#ffffffff" android:gravity="bottom|center" android:id="@+id/btnBlackSound9" android:background="@drawable/black_key_normal" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+                <View android:id="@+id/view11" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.5" />
+            </LinearLayout>
+            <View android:id="@+id/view1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0"
+                android:visibility="invisible"/>
+        </LinearLayout>
+    </FrameLayout>
+</LinearLayout>

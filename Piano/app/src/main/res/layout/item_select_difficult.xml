@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/img_item_bg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <com.fotoable.piano.view.TagStarLayout
+            android:id="@+id/easy_star"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/diff_star_layout_marginTop">
+
+        </com.fotoable.piano.view.TagStarLayout>
+
+        <TextView
+            android:id="@+id/tv_info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/easy_star"
+            android:layout_marginTop="46dp"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:textColor="@color/diff_finger_tv_color"
+            android:textSize="@dimen/text_size_12"
+            android:visibility="gone" />
+
+        <ImageView
+            android:id="@+id/img_unlock"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="47dp"
+            android:src="@drawable/lock_icon"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+</LinearLayout>

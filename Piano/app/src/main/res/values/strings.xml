@@ -1,0 +1,222 @@
+<resources>
+
+    <string name="app_name">Music Piano</string>
+
+    <string name="book_name">SONGBOOK</string>
+
+    <!--测试-->
+
+    <string name="action_Test">Test</string>
+
+
+    <!--loading-->
+
+    <string name="action_loading">Loading ...</string>
+
+    <string name="action_get_song">Get new song!</string>
+
+    <string name="action_song_info">Do you want to cost&#160;</string>
+
+    <string name="action_song_info1">&#160;coins for</string>
+
+    <string name="action_exchange">Yes</string>
+
+
+    <!--登录-->
+
+    <string name="action_settings">Setting</string>
+
+    <string name="click_login">Login</string>
+
+    <string name="hint_name">Name/Email/Phone Number</string>
+
+    <string name="hint_password">Password</string>
+
+    <string name="user_login">Login</string>
+
+    <string name="login">Login</string>
+
+    <string name="error_login_empty">Name/Email/Phone Number cannot be empty！</string>
+
+    <string name="error_pswd_empty">Password cannot be empty！</string>
+
+
+    <!--侧滑栏菜单-->
+
+    <string name="action_songbook">SONGBOOK</string>
+    <string name="action_setting">PRIVACY POLICY</string>
+    <string name="action_help">ABOUT US</string>
+    <string name="action_clear">CLEAR CACHE</string>
+    <string name="action_service">TERMS OF SERVICE</string>
+    <string name="action_feedback">FEEDBACK</string>
+    <string name="action_upgrade_vip">Upgrade To VIP</string>
+
+
+    <string name="action_feedback_type">Feedback Type</string>
+    <string name="action_feedback_mail">Please Select A Mail APP!</string>
+    <string name="action_feedback_content">The input here, thank you very much for your feedback!</string>
+
+
+    <!--侧滑菜单中详情页-->
+
+    <string name="action_avatar">avatar</string>
+
+    <string name="action_about_us_info">Copyright 2013 fotoable Inc . All rights reserved</string>
+
+    <string name="action_magic">Music Piano</string>
+
+
+    <!-- 菜单列表-->
+
+    <string name="action_suggested">Suggested</string>
+
+    <string name="action_my_songs">My Songs</string>
+
+    <string name="action_choice">Editor’s Choice</string>
+
+    <string name="action_popular">Most Popular</string>
+
+    <string name="action_new_songs">New Songs</string>
+
+    <string name="action_vip">VIP-only</string>
+
+    <string name="action_pop">Pop</string>
+
+    <string name="action_hip_pop">Hip Hop</string>
+
+
+    <string name="action_paly">Play</string>
+
+
+    <!--购买页面-->
+
+    <string name="action_balance_title">BALANCE</string>
+
+    <string name="action_error_info">Please select!</string>
+
+    <string name="action_unlock">Unlock</string>
+
+    <string name="action_balance">ACCESS ALL FEATURES TODAY!</string>
+
+    <string name="action_balance_info">Access all intruments and songs. Play with No Ads!</string>
+
+    <string name="action_free">FREE</string>
+
+    <string name="action_week_info">Then $0.99 /week</string>
+
+
+    <string name="action_coins_not">Coins are not enough！</string>
+
+
+    <!--Choose Difficulty-->
+
+    <string name="action_difficulty_info">Choose Your Difficulty!</string>
+
+    <string name="action_difficulty_star">Start</string>
+
+    <string name="action_preview_star">Preview</string>
+
+    <string name="action_easy_info">1-2 fingers</string>
+
+    <string name="action_medium_info">1-3 fingers</string>
+
+    <string name="action_hard_info">1-4 fingers</string>
+
+    <string name="action_unLock_hard">Arrive Level 6 to Unlock!</string>
+
+
+    <string name="play">Resume</string>
+
+    <string name="paused">PAUSED</string>
+
+    <string name="start">Restart</string>
+
+    <string name="quit">Quit</string>
+
+    <!--Level-->
+
+    <string name="action_levels">LEVELS</string>
+
+    <string name="action_level">Level&#160;</string>
+
+    <string name="action_level_rewards">&#160;&#160;rewards</string>
+
+    <string name="action_coins">&#160;coins</string>
+
+
+    <!--GaveOver-->
+
+    <string name="action_replay">Replay</string>
+    <string name="action_Notes_Hit">Notes Hit</string>
+    <string name="action_Timing">Timing</string>
+    <string name="action_Your_Score">Your Score</string>
+
+    <string name="action_continue">Continue</string>
+    <string name="action_share">Challenge a Friend</string>
+
+    <string name="google_error">purchase failed for Google error</string>
+
+    <string name="input_ok">OK</string>
+
+    <string name="action_collect">Collect</string>
+
+    <string name="action_bad">Bad!</string>
+
+    <string name="action_nice">Nice!</string>
+
+    <string name="action_excellent">Excellent!</string>
+
+    <string name="action_perfect">Perfect!</string>
+
+
+    <!--download-->
+
+    <string name="download_failed">Download failed, please try again!</string>
+
+    <string name="load_failed">Load failed, please try again!</string>
+    <string name="clear_success">Clear up successed</string>
+
+
+    <string name="midi_analysis_fail">Music File Parse Failure，Please Try Again!</string>
+    <string name="purchase_successed">Purchase successed!</string>
+    <string name="purchase_fail">Purchase failed！</string>
+    <string name="purchase_not_support">Payment service initialization failed！</string>
+    <string name="cancel">cancel</string>
+    <string name="purchase">purchase</string>
+    <string name="purchase_error">Purchase error!</string>
+
+    <!-- Rate start -->
+    <string name="rate_dialog_title">We are working hard for a better\nuser experience.\nWe\'d greatly appreciate if you can\nrate us 5-stars.</string>
+    <string name="rate_dialog_feedback_title">Your feedback is important\n for us</string>
+    <string name="rate_dialog_feedback_checkbox1">It doesn\'t have enough functions</string>
+    <string name="rate_dialog_feedback_checkbox2">It\'s not easy to use</string>
+    <string name="rate_dialog_feedback_checkbox3">I don\'t like the design</string>
+    <string name="rate_dialog_feedback_edittext">Detail(100words)</string>
+    <string name="rate_dialog_feedback_close">CLOSE</string>
+    <string name="rate_dialog_feedback_ok">OK</string>
+    <string name="rate_dialog_5_stars_txt">LOVE IT</string>
+    <string name="rate_dialog_4_stars_txt">LIKE IT</string>
+    <string name="rate_dialog_3_stars_txt">IT\'S OK</string>
+    <string name="rate_dialog_2_stars_txt">DISLIKE IT</string>
+    <string name="rate_dialog_1_stars_txt">HATE IT</string>
+    <string name="rate_dialog_rate_title">Your 5-stars are better than all\n the money in the world!</string>
+    <string name="rate_dialog_rate_toast">Please touch stars to rate it.</string>
+    <string name="rate_dialog_rate_no_thanks">NO THANKS</string>
+    <string name="rate_dialog_rate_rate">RATE</string>
+    <string name="rate_dialog_rate_later">LATER</string>
+    <string name="rate_dialog_rate_point">The best we can get :)</string>
+    <!-- Rate end -->
+
+    <string name="guide_note0">Tap on the note when it reaches the lines!</string>
+    <string name="facebook_login_note">Share This Song To Friends</string>
+    <string name="fb_login_success">Login in successed!</string>
+    <string name="fb_login_fail">Login in fail!</string>
+    <string name="fb_login_cancel">Login in is Cancel!</string>
+    <string name="fb_share_success">Send share request successed!</string>
+    <string name="fb_share_fail">Send share request fail!</string>
+    <string name="fb_login_note">Please login in first!</string>
+    <string name="fb_fetch_friend_note">Please loading your friend list!</string>
+    <string name="fb_select_friend_note">Please select your friends!</string>
+
+
+</resources>

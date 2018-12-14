@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff6523AF</color>
+    <color name="colorPrimaryDark">#ff6523AF</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorGray">#c5c5c5</color>
+    <color name="text_green">#02C1AC</color>
+    <color name="text_Gray">#979797</color>
+    <color name="text_medium_Gray">#5F5F5F</color>
+    <color name="text_Black">#000000</color>
+    <color name="text_medium_black">#555555</color>
+    <color name="white">#FFFFFF</color>
+    <color name="train_color">#00FFFFFF</color>
+    <color name="modena">#ff6523AF</color>
+    <color name="shallow_modena">#FFAE4BC8</color>
+    <color name="medium_modena">#FF8540D4</color>
+    <color name="text_modena">#FFB269E1</color>
+    <color name="button_bg_modena">#FFD3C0E8</color>
+    <color name="text_modena2">#FF879DFA</color>
+
+    <color name="dialog_bg_color">#BB1D0E51</color>
+
+    <color name="circle_progress_bg_color">#FF6523AF</color>
+    <color name="circle_progress_color">#FF69CDFF</color>
+    <color name="circle_progress_color2">#FF00DBFF</color>
+    <color name="progress_bg_color">#FF0D3E57</color>
+
+    <color name="progress_color">#FF69CDFF</color>
+
+    <color name="loding_color">#FFB1FDFF</color>
+    <color name="game_progress_color">#FF00F8FF</color>
+    <color name="game_progress_bg_color">#0C1024</color>
+
+    <color name="green_color">#FF6BC1FF</color>
+    <color name="game_pause_bg">#B7000000</color>
+    <color name="white_50">#7FFFFFFF</color>
+    <color name="text_green_color">#FF8FE3FF</color>
+    <color name="text_pink_color">#FFFFCFFA</color>
+
+    <color name="title_text_color">#FFFFFF</color>
+    <color name="choose_text_color">#FF6523AF</color>
+    <color name="button_text_color">#FFFFFF</color>
+
+    <color name="song_name_color">#555555</color>
+    <color name="song_singer_color">#979797</color>
+    <color name="song_play_tv_color">#FFFFFF</color>
+
+    <color name="coin_text_color">#FFB269E1</color>
+    <color name="level_coins_text_color">#FFFFFF</color>
+    <color name="level_text_color">#6523AF</color>
+    <color name="level_reward_text_color">#8FE2FF</color>
+
+    <color name="diff_finger_tv_color">#FFFFFF</color>
+    <color name="diff_singer_tv_color">#FFFFCFFA</color>
+
+    <color name="game_over_title_color">#FFFFFF</color>
+    <color name="game_over_singer_color">#FFCFFA</color>
+    <color name="game_over_score_color">#FFFFFF</color>
+    <color name="game_over_other_color">#FFFFFF</color>
+    <color name="text_grade_color">#FFC542</color>
+    <color name="new_best_text_color">#FF6767</color>
+
+    <color name="balance_tv_color">#FF879DFA</color>
+    <color name="balance_money_tv_color">#FFFFFF</color>
+    <color name="balance_money_info_color">#FFB269E1</color>
+
+
+    <color name="levelup_num_text_color">#FF5042b4</color>
+    <color name="levelup_add_coins_text_color">#555555</color>
+    <color name="get_songs_info_text_color">#5F5F5F</color>
+
+
+</resources>

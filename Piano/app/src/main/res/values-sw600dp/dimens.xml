@@ -1,0 +1,39 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">12dp</dimen>
+
+    <!--侧滑栏-->
+    <dimen name="nav_left_spacing">38dp</dimen>
+    <dimen name="nav_header_height">140dp</dimen>
+
+    <!-- 布局左右，上下间距 -->
+    <dimen name="activity_horizontal_margin">19dp</dimen>
+    <dimen name="activity_vertical_margin">19dp</dimen>
+    <dimen name="fab_margin">18dp</dimen>
+
+    <!--titlebar高度-->
+    <dimen name="title_height">46dp</dimen>
+
+    <!--导航条 图片的上下左右距离-->
+    <dimen name="item_img_margin">20dp</dimen>
+
+    <!--整体布局据左右边距-->
+    <dimen name="fragment_horizontal_left_margin">14dp</dimen>
+    <dimen name="fragment_horizontal_right_margin">6dp</dimen>
+
+    <!--进度条长度-->
+    <dimen name="progress_width_margin">180dp</dimen>
+    <dimen name="progress_height_margin">23dp</dimen>
+    <dimen name="progress_text_size">14dp</dimen>
+
+    <!--余额栏-->
+    <dimen name="coin_text_size">14dp</dimen>
+    <dimen name="coin_width_margin">100dp</dimen>
+    <dimen name="coin_height_margin">20dp</dimen>
+    <dimen name="coin_rl_width_margin">140dp</dimen>
+
+
+
+
+
+</resources>

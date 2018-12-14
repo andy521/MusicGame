@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">钢琴</string>
+
+    <string name="not_ready_toast">加载中，无法播放正在加载的文件</string>
+    <string name="no_saved_file">目录为空： %s</string>
+
+    <string name="setting_back_title">设置</string>
+    <string name="setting_A_B_C">A B C</string>
+    <string name="setting_Do_Re_Mi">Do Re Mi</string>
+    <string name="setting_hide_control_bar">隐藏控制栏</string>
+    <string name="setting_display_control_bar">显示控制栏</string>
+    <string name="setting_keyboard_num_control">键盘数量控制</string>
+    <string name="setting_keyboard_num_10">10键</string>
+    <string name="setting_keyboard_num_08">8键</string>
+    <string name="setting_keyboard_num_06">6键</string>
+    <string name="setting_double_keyboard_no_connection">上下键盘位置独立</string>
+    <string name="setting_double_keyboard_yes_connection">上下键盘位置联动</string>
+    <string name="set_success_toast">设置成功</string>
+    <string name="set_fail_toast">设置失败</string>
+</resources>

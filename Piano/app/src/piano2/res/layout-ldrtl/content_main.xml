@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/root_view"
+    android:orientation="vertical">
+
+    <!--=============================-->
+    <!--头部局-->
+    <!--=============================-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/img_title_bg">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/title_height">
+
+            <!--  logo右侧布局  -->
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingRight="@dimen/activity_horizontal_margin">
+
+                <ImageView
+                    android:id="@+id/img_search"
+                    android:visibility="gone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginRight="15dp"
+                    android:src="@drawable/search_icon" />
+
+                <RelativeLayout
+                    android:id="@+id/rl_coin"
+                    android:layout_width="@dimen/coin_rl_width_margin"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:src="@drawable/coin_add_bg"/>
+
+                    <TextView
+                        android:id="@+id/tv_coin"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:paddingTop="2dp"
+                        android:gravity="center"
+                        android:layout_centerInParent="true"
+                        android:textColor="@color/coin_text_color"
+                        android:textSize="@dimen/coin_text_size"/>
+
+                </RelativeLayout>
+
+            </LinearLayout>
+
+            <!--  logo  -->
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true">
+
+                <TextView
+                    android:id="@+id/tv_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="10dp"
+                    android:text="@string/book_name"
+                    android:textSize="@dimen/text_size_21"
+                    android:textColor="@color/tab_unselect_color"/>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                    android:layout_gravity="center_vertical"
+                    android:src="@drawable/music_icon" />
+
+            </LinearLayout>
+
+            <!--  logo左侧布局  -->
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <RelativeLayout
+                    android:id="@+id/rl_level"
+                    android:layout_width="180dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true">
+
+                    <RelativeLayout
+                        android:layout_width="@dimen/progress_width_margin"
+                        android:layout_height="24dp"
+                        android:layout_centerVertical="true"
+                        android:layout_alignParentLeft="true"
+                        android:background="@drawable/progress_bg"
+                        android:layout_marginLeft="10dp">
+                        <ProgressBar
+                            android:id="@+id/level_progressbar"
+                            style="?android:attr/progressBarStyleHorizontal"
+                            android:layout_width="@dimen/progress_width_margin"
+                            android:layout_height="@dimen/progress_height_margin"
+                            android:layout_centerInParent="true"
+                            android:paddingBottom="1dp"
+                            android:progress="50"
+                            android:max="100"
+                            android:progressDrawable="@drawable/shape_progressbar_mini"/>
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="46dp"
+                        android:layout_height="46dp"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true">
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerInParent="true"
+                            android:src="@drawable/level_bg"/>
+
+                        <TextView
+                            android:id="@+id/tv_level_num"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerInParent="true"
+                            android:paddingRight="2dp"
+                            android:text="4"
+                            android:textColor="@color/main_text_color"
+                            android:textSize="@dimen/text_size_11"/>
+
+                    </RelativeLayout>
+
+                    <TextView
+                        android:id="@+id/tv_exp_num"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="45dp"
+                        android:text="34/36xp"
+                        android:textSize="@dimen/progress_text_size"/>
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/rl_snackbar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="@dimen/activity_horizontal_margin"
+                    android:paddingRight="@dimen/activity_horizontal_margin">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:src="@drawable/more_selecter"/>
+
+                </RelativeLayout>
+
+                <ImageView
+                    android:id="@+id/img_piano"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="@dimen/activity_horizontal_margin"
+                    android:src="@drawable/piano_icon"
+                    android:visibility="gone"/>
+            </LinearLayout>
+
+        </RelativeLayout>
+
+        <!--===================================================================================================-->
+        <!--app:tl_indicator_corner_radius //圆角弧度、-->
+        <!--app:tl_indicator_color         //游标颜色-->
+        <!--app:tl_indicator_style          //游标样式 三角，常规，色块-->
+        <!--app:tl_tab_width                //tab 宽度-->
+        <!--app:tl_tab_space_equal          // 宽度自适应或者权重平分-->
+        <!--===================================================================================================-->
+
+        <com.fotoable.piano.SlidingTab.SlidingTabLayout
+            android:id="@+id/sliding_tabs"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:elevation="30dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            app:tl_textsize="@dimen/text_size_14"
+            app:tl_textUnselectColor="@color/tab_unselect_color"
+            app:tl_textSelectColor="@color/main_text_color"
+            app:tl_indicator_corner_radius="20dp"
+            app:tl_indicator_color="@color/white"
+            app:tl_indicator_height="0dp"
+            app:tl_indicator_width="0dp"
+            app:tl_indicator_style="NORMAL"
+            app:tl_tab_width="140dp"
+            app:tl_tab_space_equal="false" />
+
+    </LinearLayout>
+
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/view_pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:overScrollMode="never"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+
+
+</LinearLayout>

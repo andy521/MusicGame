@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="StarLayout">
+        <attr name="light_star" format="reference"/>
+        <attr name="dark_star" format="reference"/>
+    </declare-styleable>
+
+    <declare-styleable name="CircleProgressView">
+        <attr name="line_stroke_width" format="dimension"/>
+        <attr name="progress_color" format="color"/>
+        <attr name="progress_color_bg" format="color"/>
+    </declare-styleable>
+
+</resources>

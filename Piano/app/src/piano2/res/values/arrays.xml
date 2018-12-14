@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--circle_progress 渐变效果-->
+    <integer-array name="colors_array">
+        <item>@color/circle_progress_change_color0</item>
+        <item>@color/circle_progress_change_color1</item>
+        <item>@color/circle_progress_change_color2</item>
+    </integer-array>
+
+</resources>

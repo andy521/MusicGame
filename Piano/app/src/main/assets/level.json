@@ -1,0 +1,701 @@
+[
+  {
+    "level": 1,
+    "xp": 100,
+    "title": "Level 1",
+    "coins": 2
+  },
+  {
+    "level": 2,
+    "xp": 200,
+    "title": "Level 2",
+    "coins": 3
+
+  },
+  {
+    "level": 3,
+    "xp": 300,
+    "title": "Level 3",
+    "coins": 5
+
+  },
+  {
+    "level": 4,
+    "xp": 500,
+    "title": "Level 4",
+    "coins": 5
+
+  },
+  {
+    "level": 5,
+    "xp": 750,
+    "title": "Level 5",
+    "coins": 5
+
+  },
+  {
+    "level": 6,
+    "xp": 1000,
+    "title": "Level 6",
+    "coins": 5
+
+  },
+  {
+    "level": 7,
+    "xp": 1500,
+    "title": "Level 7",
+    "coins": 5
+
+  },
+  {
+    "level": 8,
+    "xp": 2000,
+    "title": "Level 8",
+    "coins": 5
+
+  },
+  {
+    "level": 9,
+    "xp": 2500,
+    "title": "Level 9",
+    "coins": 5
+
+  },
+  {
+    "level": 10,
+    "xp": 3000,
+    "title": "Level 10",
+    "coins": 10
+
+  },
+  {
+    "level": 11,
+    "xp": 4000,
+    "title": "Level 11",
+    "coins": 10
+
+  },
+  {
+    "level": 12,
+    "xp": 5000,
+    "title": "Level 12",
+    "coins": 10
+
+  },
+  {
+    "level": 13,
+    "xp": 6000,
+    "title": "Level 13",
+    "coins": 10
+
+  },
+  {
+    "level": 14,
+    "xp": 7000,
+    "title": "Level 14",
+    "coins": 10
+
+  },
+  {
+    "level": 15,
+    "xp": 8000,
+    "title": "Level 15",
+    "coins": 10
+
+  },
+  {
+    "level": 16,
+    "xp": 8000,
+    "title": "Level 16",
+    "coins": 10
+
+  },
+  {
+    "level": 17,
+    "xp": 8000,
+    "title": "Level 17",
+    "coins": 10
+
+  },
+  {
+    "level": 18,
+    "xp": 8000,
+    "title": "Level 18",
+    "coins": 10
+
+  },
+  {
+    "level": 19,
+    "xp": 8000,
+    "title": "Level 19",
+    "coins": 10
+
+  },
+  {
+    "level": 20,
+    "xp": 8000,
+    "title": "Level 20",
+    "coins": 20
+
+  },
+  {
+    "level": 21,
+    "xp": 8000,
+    "title": "Level 21",
+    "coins": 20
+
+  },
+  {
+    "level": 22,
+    "xp": 8000,
+    "title": "Level 22",
+    "coins": 20
+
+  },
+  {
+    "level": 23,
+    "xp": 8000,
+    "title": "Level 23",
+    "coins": 20
+
+  },
+  {
+    "level": 24,
+    "xp": 8000,
+    "title": "Level 24",
+    "coins": 20
+
+  },
+  {
+    "level": 25,
+    "xp": 8000,
+    "title": "Level 25",
+    "coins": 20
+
+  },
+  {
+    "level": 26,
+    "xp": 8000,
+    "title": "Level 26",
+    "coins": 20
+
+  },
+  {
+    "level": 27,
+    "xp": 8000,
+    "title": "Level 27",
+    "coins": 20
+
+  },
+  {
+    "level": 28,
+    "xp": 8000,
+    "title": "Level 28",
+    "coins": 20
+
+  },
+  {
+    "level": 29,
+    "xp": 8000,
+    "title": "Level 29",
+    "coins": 20
+
+  },
+  {
+    "level": 30,
+    "xp": 8000,
+    "title": "Level 30",
+    "coins": 30
+
+  },
+  {
+    "level": 31,
+    "xp": 8000,
+    "title": "Level 31",
+    "coins": 30
+
+  },
+  {
+    "level": 32,
+    "xp": 8000,
+    "title": "Level 32",
+    "coins": 30
+
+  },
+  {
+    "level": 33,
+    "xp": 8000,
+    "title": "Level 33",
+    "coins": 30
+
+  },
+  {
+    "level": 34,
+    "xp": 8000,
+    "title": "Level 34",
+    "coins": 30
+
+  },
+  {
+    "level": 35,
+    "xp": 8000,
+    "title": "Level 35",
+    "coins": 30
+
+  },
+  {
+    "level": 36,
+    "xp": 8000,
+    "title": "Level 36",
+    "coins": 30
+
+  },
+  {
+    "level": 37,
+    "xp": 8000,
+    "title": "Level 37",
+    "coins": 30
+
+  },
+  {
+    "level": 38,
+    "xp": 8000,
+    "title": "Level 38",
+    "coins": 30
+
+  },
+  {
+    "level": 39,
+    "xp": 8000,
+    "title": "Level 39",
+    "coins": 30
+
+  },
+  {
+    "level": 40,
+    "xp": 8000,
+    "title": "Level 40",
+    "coins": 50
+
+  },
+  {
+    "level": 41,
+    "xp": 8000,
+    "title": "Level 41",
+    "coins": 50
+
+  },
+  {
+    "level": 42,
+    "xp": 8000,
+    "title": "Level 42",
+    "coins": 50
+
+  },
+  {
+    "level": 43,
+    "xp": 8000,
+    "title": "Level 43",
+    "coins": 50
+
+  },
+  {
+    "level": 44,
+    "xp": 8000,
+    "title": "Level 44",
+    "coins": 50
+
+  },
+  {
+    "level": 45,
+    "xp": 8000,
+    "title": "Level 45",
+    "coins": 50
+
+  },
+  {
+    "level": 46,
+    "xp": 8000,
+    "title": "Level 46",
+    "coins": 50
+
+  },
+  {
+    "level": 47,
+    "xp": 8000,
+    "title": "Level 47",
+    "coins": 50
+
+  },
+  {
+    "level": 48,
+    "xp": 8000,
+    "title": "Level 48",
+    "coins": 50
+
+  },
+  {
+    "level": 49,
+    "xp": 8000,
+    "title": "Level 49",
+    "coins": 50
+
+  },
+  {
+    "level": 50,
+    "xp": 8000,
+    "title": "Level 50",
+    "coins": 50
+
+  },
+  {
+    "level": 51,
+    "xp": 8000,
+    "title": "Level 51",
+    "coins": 50
+
+  },
+  {
+    "level": 52,
+    "xp": 8000,
+    "title": "Level 52",
+    "coins": 50
+
+  },
+  {
+    "level": 53,
+    "xp": 8000,
+    "title": "Level 53",
+    "coins": 50
+
+  },
+  {
+    "level": 54,
+    "xp": 8000,
+    "title": "Level 54",
+    "coins": 50
+
+  },
+  {
+    "level": 55,
+    "xp": 8000,
+    "title": "Level 55",
+    "coins": 50
+
+  },
+  {
+    "level": 56,
+    "xp": 8000,
+    "title": "Level 56",
+    "coins": 50
+
+  },
+  {
+    "level": 57,
+    "xp": 8000,
+    "title": "Level 57",
+    "coins": 50
+
+  },
+  {
+    "level": 58,
+    "xp": 8000,
+    "title": "Level 58",
+    "coins": 50
+
+  },
+  {
+    "level": 59,
+    "xp": 8000,
+    "title": "Level 59",
+    "coins": 50
+
+  },
+  {
+    "level": 60,
+    "xp": 8000,
+    "title": "Level 60",
+    "coins": 75
+
+  },
+  {
+    "level": 61,
+    "xp": 8000,
+    "title": "Level 61",
+    "coins": 75
+
+  },
+  {
+    "level": 62,
+    "xp": 8000,
+    "title": "Level 62",
+    "coins": 75
+
+  },
+  {
+    "level": 63,
+    "xp": 8000,
+    "title": "Level 63",
+    "coins": 75
+
+  },
+  {
+    "level": 64,
+    "xp": 8000,
+    "title": "Level 64",
+    "coins": 75
+
+  },
+  {
+    "level": 65,
+    "xp": 8000,
+    "title": "Level 65",
+    "coins": 75
+
+  },
+  {
+    "level": 66,
+    "xp": 8000,
+    "title": "Level 66",
+    "coins": 75
+
+  },
+  {
+    "level": 67,
+    "xp": 8000,
+    "title": "Level 67",
+    "coins": 75
+
+  },
+  {
+    "level": 68,
+    "xp": 8000,
+    "title": "Level 68",
+    "coins": 75
+
+  },
+  {
+    "level": 69,
+    "xp": 8000,
+    "title": "Level 69",
+    "coins": 75
+
+  },
+  {
+    "level": 70,
+    "xp": 8000,
+    "title": "Level 70",
+    "coins": 75
+
+  },
+  {
+    "level": 71,
+    "xp": 8000,
+    "title": "Level 71",
+    "coins": 75
+
+  },
+  {
+    "level": 72,
+    "xp": 8000,
+    "title": "Level 72",
+    "coins": 75
+
+  },
+  {
+    "level": 73,
+    "xp": 8000,
+    "title": "Level 73",
+    "coins": 75
+
+  },
+  {
+    "level": 74,
+    "xp": 8000,
+    "title": "Level 74",
+    "coins": 75
+
+  },
+  {
+    "level": 75,
+    "xp": 8000,
+    "title": "Level 75",
+    "coins": 150
+
+  },
+  {
+    "level": 76,
+    "xp": 8000,
+    "title": "Level 76",
+    "coins": 150
+
+  },
+  {
+    "level": 77,
+    "xp": 8000,
+    "title": "Level 77",
+    "coins": 150
+
+  },
+  {
+    "level": 78,
+    "xp": 8000,
+    "title": "Level 78",
+    "coins": 150
+
+  },
+  {
+    "level": 79,
+    "xp": 8000,
+    "title": "Level 79",
+    "coins": 150
+
+  },
+  {
+    "level": 80,
+    "xp": 8000,
+    "title": "Level 80",
+    "coins": 150
+
+  },
+  {
+    "level": 81,
+    "xp": 8000,
+    "title": "Level 81",
+    "coins": 150
+
+  },
+  {
+    "level": 82,
+    "xp": 8000,
+    "title": "Level 82",
+    "coins": 150
+
+  },
+  {
+    "level": 83,
+    "xp": 8000,
+    "title": "Level 83",
+    "coins": 150
+
+  },
+  {
+    "level": 84,
+    "xp": 8000,
+    "title": "Level 84",
+    "coins": 150
+
+  },
+  {
+    "level": 85,
+    "xp": 8000,
+    "title": "Level 85",
+    "coins": 150
+
+  },
+  {
+    "level": 86,
+    "xp": 8000,
+    "title": "Level 86",
+    "coins": 150
+
+  },
+  {
+    "level": 87,
+    "xp": 8000,
+    "title": "Level 87",
+    "coins": 150
+
+  },
+  {
+    "level": 88,
+    "xp": 8000,
+    "title": "Level 88",
+    "coins": 150
+
+  },
+  {
+    "level": 89,
+    "xp": 8000,
+    "title": "Level 89",
+    "coins": 150
+
+  },
+  {
+    "level": 90,
+    "xp": 8000,
+    "title": "Level 90",
+    "coins": 200
+
+  },
+  {
+    "level": 91,
+    "xp": 8000,
+    "title": "Level 91",
+    "coins": 200
+
+  },
+  {
+    "level": 92,
+    "xp": 8000,
+    "title": "Level 92",
+    "coins": 200
+
+  },
+  {
+    "level": 93,
+    "xp": 8000,
+    "title": "Level 93",
+    "coins": 200
+
+  },
+  {
+    "level": 94,
+    "xp": 8000,
+    "title": "Level 94",
+    "coins": 200
+
+  },
+  {
+    "level": 95,
+    "xp": 8000,
+    "title": "Level 95",
+    "coins": 200
+
+  },
+  {
+    "level": 96,
+    "xp": 8000,
+    "title": "Level 96",
+    "coins": 200
+
+  },
+  {
+    "level": 97,
+    "xp": 8000,
+    "title": "Level 97",
+    "coins": 200
+
+  },
+  {
+    "level": 98,
+    "xp": 8000,
+    "title": "Level 98",
+    "coins": 200
+
+  },
+  {
+    "level": 99,
+    "xp": 8000,
+    "title": "Level 99",
+    "coins": 200
+
+  },
+  {
+    "level": 100,
+    "xp": 8000,
+    "title": "Level 100",
+    "coins": 300
+
+  }
+]
